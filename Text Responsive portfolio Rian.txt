@@ -9,7 +9,7 @@ Septi Juliana.
 Menu
 
 .nav__name
-Rian
+septi
 
 .nav__link
 Home - About Me - Projects - Contact Me
@@ -174,4 +174,5 @@ Home - About - Projects
 .footer__copy
 &#169; All Rights Reserved By 
 <a href="#">Bedimcode.</a>
+
 
