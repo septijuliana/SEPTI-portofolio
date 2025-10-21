@@ -3,7 +3,7 @@
 R
 
 .nav__logo-name
-Rian Lot.
+Septi Juliana.
 
 .nav__title
 Menu
@@ -17,7 +17,7 @@ Home - About Me - Projects - Contact Me
 
 ========== HOME ==========
 .home__name
-Rian Lot
+Septi Juliana
 
 .home__social-link
 https://www.instagram.com/
@@ -174,3 +174,4 @@ Home - About - Projects
 .footer__copy
 &#169; All Rights Reserved By 
 <a href="#">Bedimcode.</a>
+
